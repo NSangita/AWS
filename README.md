@@ -1,6 +1,10 @@
 # AWS
 AWS 
 
+This project discusses about how to use boto(Python library that provides you with an easy way to interact with and automate using various Amazon Web Services) to 
+- create one user in AWS. 
+- creating multiple users in AWS by reading a file which contains users in each line 
+
 The steps I followed are:
 
 1. Install pip 
